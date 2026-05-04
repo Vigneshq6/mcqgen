@@ -1,4 +1,4 @@
 openai
 langchain
-stramlit
+streamlit
 python-dotenv
